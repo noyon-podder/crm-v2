@@ -1,0 +1,102 @@
+[
+    {
+        "_id": 1,
+        "campaign_name": "Product launch campaign",
+        "start_date": "11/12/23",
+        "end_date": "17/12/23",
+        "type": "email",
+        "status": "Completed",
+        "owner_name": "Sk Murad",
+        "owner_image": "https://i.ibb.co/SdkzFM3/table-IPeople.png"
+    },
+    {
+        "_id": 2,
+        "campaign_name": "Customer Conference - (Sample)",
+        "start_date": "11/12/23",
+        "end_date": "17/12/23",
+        "type": "Event",
+        "status": "Completed",
+        "owner_name": "Sk Murad",
+        "owner_image": "https://i.ibb.co/SdkzFM3/table-IPeople.png"
+    },
+    {
+        "_id": 3,
+        "campaign_name": "Widgets Webinar (Sample)",
+        "start_date": "11/12/23",
+        "end_date": "17/12/23",
+        "type": "Other",
+        "status": "Completed",
+        "owner_name": "Sk Murad",
+        "owner_image": "https://i.ibb.co/SdkzFM3/table-IPeople.png"
+    },
+    {
+        "_id": 4,
+        "campaign_name": "Customer Conference",
+        "start_date": "11/12/23",
+        "end_date": "17/12/23",
+        "type": "email",
+        "status": "Planed",
+        "owner_name": "Sk Murad",
+        "owner_image": "https://i.ibb.co/SdkzFM3/table-IPeople.png"
+    },
+    {
+        "_id": 5,
+        "campaign_name": "Brand awareness",
+        "start_date": "11/12/23",
+        "end_date": "17/12/23",
+        "type": "Event",
+        "status": "Completed",
+        "owner_name": "Sk Murad",
+        "owner_image": "https://i.ibb.co/SdkzFM3/table-IPeople.png"
+    },
+    {
+        "_id": 6,
+        "campaign_name": "Product launch campaign",
+        "start_date": "11/12/23",
+        "end_date": "17/12/23",
+        "type": "email",
+        "status": "Planed",
+        "owner_name": "Sk Murad",
+        "owner_image": "https://i.ibb.co/SdkzFM3/table-IPeople.png"
+    },
+    {
+        "_id": 7,
+        "campaign_name": "Product launch campaign",
+        "start_date": "11/12/23",
+        "end_date": "17/12/23",
+        "type": "email",
+        "status": "Completed",
+        "owner_name": "Sk Murad",
+        "owner_image": "https://i.ibb.co/SdkzFM3/table-IPeople.png"
+    },
+    {
+        "_id": 8,
+        "campaign_name": "Product launch campaign",
+        "start_date": "11/12/23",
+        "end_date": "17/12/23",
+        "type": "email",
+        "status": "Planed",
+        "owner_name": "Sk Murad",
+        "owner_image": "https://i.ibb.co/SdkzFM3/table-IPeople.png"
+    },
+    {
+        "_id": 9,
+        "campaign_name": "Product launch campaign",
+        "start_date": "11/12/23",
+        "end_date": "17/12/23",
+        "type": "email",
+        "status": "Completed",
+        "owner_name": "Sk Murad",
+        "owner_image": "https://i.ibb.co/SdkzFM3/table-IPeople.png"
+    },
+    {
+        "_id": 10,
+        "campaign_name": "Product launch campaign",
+        "start_date": "11/12/23",
+        "end_date": "17/12/23",
+        "type": "email",
+        "status": "Planed",
+        "owner_name": "Sk Murad",
+        "owner_image": "https://i.ibb.co/SdkzFM3/table-IPeople.png"
+    }
+]

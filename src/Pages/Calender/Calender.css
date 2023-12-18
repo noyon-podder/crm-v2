@@ -1,0 +1,27 @@
+.rbc-toolbar-label {
+    font-weight: 600;
+    font-size: 24px;
+  }
+  
+  .rbc-header {
+    overflow: hidden;
+    flex: 1 0 0%;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    padding: 15px 3px;
+    text-align: center;
+    vertical-align: middle;
+    font-weight: 400;
+    font-size: 90%;
+    min-height: 0;
+    border-bottom: 1px solid #ddd;
+    background-color: #eff4fa;
+  }
+  
+  .react-datetime-picker__wrapper {
+    display: flex;
+    flex-grow: 1;
+    flex-shrink: 0;
+    border: 1px solid #eff4fa;
+  }
+  

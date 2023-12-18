@@ -1,0 +1,82 @@
+[
+    {
+        "_id": 1,
+        "forecast_name_image": "https://i.ibb.co/SdkzFM3/table-IPeople.png",
+        "forecast_name": "Acme (Sample)",
+        "forecast_name_type": "Acme - 80 widests",
+        "forecast_amount": 10000,
+        "forecast_stage": "Closed",
+        "forecast_close_date": "08.08.2023",
+        "forecast_probability": 100
+    },
+    {
+        "_id": 2,
+        "forecast_name_image": "https://i.ibb.co/SdkzFM3/table-IPeople.png",
+        "forecast_name": "Acme (Sample)",
+        "forecast_name_type": "Acme - 80 widests",
+        "forecast_amount": 10000,
+        "forecast_stage": "Closed",
+        "forecast_close_date": "08.08.2023",
+        "forecast_probability": 100
+    },
+    {
+        "_id": 3,
+        "forecast_name_image": "https://i.ibb.co/SdkzFM3/table-IPeople.png",
+        "forecast_name": "Acme (Sample)",
+        "forecast_name_type": "Acme - 80 widests",
+        "forecast_amount": 10000,
+        "forecast_stage": "Closed",
+        "forecast_close_date": "08.08.2023",
+        "forecast_probability": 100
+    },
+    {
+        "_id": 4,
+        "forecast_name_image": "https://i.ibb.co/SdkzFM3/table-IPeople.png",
+        "forecast_name": "Acme (Sample)",
+        "forecast_name_type": "Acme - 80 widests",
+        "forecast_amount": 10000,
+        "forecast_stage": "Closed",
+        "forecast_close_date": "08.08.2023",
+        "forecast_probability": 100
+    },
+    {
+        "_id": 5,
+        "forecast_name_image": "https://i.ibb.co/SdkzFM3/table-IPeople.png",
+        "forecast_name": "Acme (Sample)",
+        "forecast_name_type": "Acme - 80 widests",
+        "forecast_amount": 10000,
+        "forecast_stage": "Closed",
+        "forecast_close_date": "08.08.2023",
+        "forecast_probability": 100
+    },
+    {
+        "_id": 6,
+        "forecast_name_image": "https://i.ibb.co/SdkzFM3/table-IPeople.png",
+        "forecast_name": "Acme (Sample)",
+        "forecast_name_type": "Acme - 80 widests",
+        "forecast_amount": 10000,
+        "forecast_stage": "Closed",
+        "forecast_close_date": "08.08.2023",
+        "forecast_probability": 100
+    },
+    {
+        "_id": 7,
+        "forecast_name_image": "https://i.ibb.co/SdkzFM3/table-IPeople.png",
+        "forecast_name": "Acme (Sample)",
+        "forecast_name_type": "Acme - 80 widests",
+        "forecast_amount": 10000,
+        "forecast_stage": "Closed",
+        "forecast_close_date": "08.08.2023",
+        "forecast_probability": 100
+    },
+    {
+        "_id": 8,
+        "forecast_name_image": "https://i.ibb.co/SdkzFM3/table-IPeople.png",
+        "forecast_name": "Acme (Sample)",
+        "forecast_name_type": "Acme - 80 widests",
+        "forecast_amount": 10000,
+        "forecast_stage": "Closed",
+        "forecast_close_date": "08.08.2023",
+        "forecast_probability": 100
+    }
+]
